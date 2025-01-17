@@ -2,10 +2,10 @@
 Customer Behaviour using Retal Analysis SQL Case Study – Retail Customer Behavior Analysis
 
 **- ****Business Context**
--This project aims to analyze customer behavior using point-of-sale (POS) data from a retail store. The objective is to derive actionable insights to improve customer engagement, optimize inventory, and enhance overall business performance.
+- This project aims to analyze customer behavior using point-of-sale (POS) data from a retail store. The objective is to derive actionable insights to improve customer engagement, optimize inventory, and enhance overall business performance.
 
 **Data Overview**
-The dataset comprises three tables:
+ The dataset comprises three tables:
 - Customer: Contains customer demographic details such as age, gender, and location.
 - Transactions: Includes details of transactions, such as transaction IDs, dates, and product IDs.
 - Product Category: Contains information about product categories and subcategories to analyze product trends.
