@@ -35,6 +35,4 @@ The relationships between the tables can be visualized as follows:
 - Actionable insights for marketing and inventory management.
 - Tools and Technologies
 
-**SQL for querying and data analysis.**
-- Database: Relational Database Management System (e.g., MySQL, PostgreSQL).
-- Visualization (Optional): Exporting SQL results to tools like Power BI or Excel for reporting.
+
